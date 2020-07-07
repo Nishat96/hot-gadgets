@@ -18,6 +18,19 @@
 
 
 }
+.carousel{
+   background-image: url("images/bg-1.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   width: 100%;
+   
+}
+
+.carousel-indicators{
+ 
+   background-color: orange;
+}
 .buy-now-button-card{
    background-color: black;
    color: white;
