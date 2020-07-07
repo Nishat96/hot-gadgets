@@ -27,7 +27,7 @@
    
 }
 
-.carousel-indicators{
+.carousel-indicators .active {
  
    background-color: orange;
 }
@@ -58,6 +58,7 @@
 .card-footer{
    background-color: white;
    border-top: none;
+   border: none;
 }
 .text{
    text-align: center;
