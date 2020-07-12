@@ -29,6 +29,10 @@ body{
    width: 100%;
    
 }
+.card .card-footer{
+   border-top: none;
+   background-color: white;
+}
 
 .carousel-indicators .active {
  
